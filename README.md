@@ -1,7 +1,3 @@
- ## Hi 👋  
-
- ### Welcome to my homepage
-
 <!--
 **yctCharles/yctCharles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,4 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<span style="color : red"> AAA </span>
+![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)
+
+![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?username=all-smile&show_icons=true&theme=tokyonight)
